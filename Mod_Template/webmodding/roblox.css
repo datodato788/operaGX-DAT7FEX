@@ -1,0 +1,21 @@
+a {
+  color: rgb(0, 0, 0) !important;
+  text-shadow: 0px 0px 5px rgba(255, 255, 255, 0.432);
+}
+.container-fluid {
+  background-color: rgba(105, 103, 103, 0.384) !important;
+}
+.content {
+
+}
+.rbx-text-navbar-right {
+  color: rgb(255, 0, 0) !important;
+}
+.section-content a {
+    color: rgb(0, 4, 243) !important;
+    font-weight: 900;
+    
+}
+.section-content .xsmall {
+    color:  black !important;
+}
